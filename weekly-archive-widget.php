@@ -2,7 +2,7 @@
 /*
 Plugin Name: Weekly Archive Widget
 Plugin URI: http://judenware.com/projects/wordpress/weekly-archive-widget/
-Version 1.0
+Version: 1.0
 Description: Create a widget that displays the archives by week
 Author: ericjuden
 Author URI: http://www.judenware.com/
