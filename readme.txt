@@ -1,8 +1,8 @@
 === Weekly Archive Widget ===
 Contributors: ericjuden
-Tags: archive, archives, week, weekly, weekly archive, widget
+Tags: archive, archives, week, weekly, weekly archive, widget, widget-only
 Requires at least 2.8
-Tested up to: 3.2.1
+Tested up to: 3.4.1
 Stable tag: trunk
 
 == Description ==
