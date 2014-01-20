@@ -2,7 +2,7 @@
 Contributors: ericjuden
 Tags: archive, archives, week, weekly, weekly archive, widget, widget-only
 Requires at least 2.8
-Tested up to: 3.4.1
+Tested up to: 3.8
 Stable tag: trunk
 
 == Description ==
